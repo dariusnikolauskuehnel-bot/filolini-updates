@@ -1,0 +1,19 @@
+{
+  "version": "8.0.0-beta.10.5.2",
+  "build": 35,
+  "date": "2026-11-14",
+  "apkUrl": "https://dariusnikolauskuehnel-bot.github.io/gz-app-updates/filolini/Filolini-Beta.apk",
+  "apkSha256": "c7f345ceae0f6b9787df93f872ca5931b9422944d54a3443e93c453c87f852a2",
+  "notes": {
+    "neu": [
+      "Neue Versionen werden beim Öffnen automatisch gefunden (höchstens alle 12 Stunden); es werden keine Namen und keine privaten Daten gesendet.",
+      "Neue Update-Adresse; ältere Versionen finden diese Version weiterhin."
+    ],
+    "verbessert": [
+      "Nachrichten an den Entwickler gehen nur noch per E-Mail oder über das Teilen-Menü.",
+      "Hinweis zur Datensicherung vor dem Aktualisieren bleibt im Update-Fenster und in der Hilfe."
+    ],
+    "behoben": [],
+    "wunsch": []
+  }
+}
